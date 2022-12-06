@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T20:26:34.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="5Gy5quIbPZFVh4O7ebcE" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T20:27:07.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="gFCrJPc3kyeu8CfqMZMV" type="github">
   <diagram id="iuGtQKQCzMkO33lwLsO8" name="Page-1">
     <mxGraphModel dx="2370" dy="2328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,16 +50,16 @@
           <mxGeometry y="114" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-24" value="Schedule View" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="30" y="730" width="580" height="112" as="geometry" />
+          <mxGeometry x="30" y="720" width="410" height="112" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-25" value="Therapists see their respective schedules - including clients" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="W3-CAufSZHuuTs5VPjyQ-24">
-          <mxGeometry y="26" width="580" height="26" as="geometry" />
+          <mxGeometry y="26" width="410" height="26" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-26" value="- consider: should clients have access to this application?  assuming no." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="W3-CAufSZHuuTs5VPjyQ-24">
-          <mxGeometry y="52" width="580" height="30" as="geometry" />
+          <mxGeometry y="52" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-27" value="- read on laws concerning client information storage" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="W3-CAufSZHuuTs5VPjyQ-24">
-          <mxGeometry y="82" width="580" height="30" as="geometry" />
+          <mxGeometry y="82" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-29" value="Employee" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="280" height="130" as="geometry" />
@@ -98,22 +98,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-41" value="Client Detail View" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="690" y="730" width="580" height="138" as="geometry" />
+          <mxGeometry x="520" y="720" width="560" height="138" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-42" value="Therapists can see their respective clients" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="W3-CAufSZHuuTs5VPjyQ-41">
-          <mxGeometry y="26" width="580" height="26" as="geometry" />
+          <mxGeometry y="26" width="560" height="26" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-51" value="Therapists can see respective client forms (medical history, past exams, etc)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="W3-CAufSZHuuTs5VPjyQ-41">
-          <mxGeometry y="52" width="580" height="26" as="geometry" />
+          <mxGeometry y="52" width="560" height="26" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-43" value="- consider: should therapists have access to all client info?" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="W3-CAufSZHuuTs5VPjyQ-41">
-          <mxGeometry y="78" width="580" height="30" as="geometry" />
+          <mxGeometry y="78" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-44" value="- assuming therapist can only see respective clients and manipulate their respective schedules" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="W3-CAufSZHuuTs5VPjyQ-41">
-          <mxGeometry y="108" width="580" height="30" as="geometry" />
+          <mxGeometry y="108" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-45" value="Form Entry View" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="730" width="640" height="170" as="geometry" />
+          <mxGeometry x="1160" y="720" width="640" height="170" as="geometry" />
         </mxCell>
         <mxCell id="W3-CAufSZHuuTs5VPjyQ-46" value="View which acts as a hub for forms for therapists to fill out concerning their respective clients" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="W3-CAufSZHuuTs5VPjyQ-45">
           <mxGeometry y="26" width="640" height="26" as="geometry" />
